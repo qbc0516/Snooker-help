@@ -2,3 +2,4 @@ scikit-image
 numpy
 matplotlib
 pyinstaller
+pywin32
